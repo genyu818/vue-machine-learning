@@ -32,7 +32,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-eslint": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-service": "~5.0.8",
     "@vue/eslint-config-standard": "^5.1.2",
     "element-theme-chalk": "^2.13.2",
     "eslint": "^6.7.2",
