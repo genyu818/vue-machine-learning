@@ -31,8 +31,8 @@
     "xlsx": "^0.16.4"
   },
   "devDependencies": {
-    "@vue/cli-plugin-eslint": "~4.4.0",
-    "@vue/cli-service": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~5.0.8",
+    "@vue/cli-service": "~5.0.8",
     "@vue/eslint-config-standard": "^5.1.2",
     "element-theme-chalk": "^2.13.2",
     "eslint": "^6.7.2",
@@ -42,7 +42,7 @@
     "eslint-plugin-standard": "^4.0.0",
     "eslint-plugin-vue": "^6.2.2",
     "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2",
+    "stylus-loader": "^7.1.0",
     "vue-template-compiler": "^2.6.11"
   }
 }
